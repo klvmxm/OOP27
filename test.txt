@@ -9,3 +9,4 @@ Hello world!
 в "слепке" comvited
 
 строка
+еще строка
